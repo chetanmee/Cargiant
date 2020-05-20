@@ -18,7 +18,15 @@ ChromeDriver dll is added
 
 Clone the Git Repository 'Cargiant' to the local.
 
-Open the Solution 'ClassLibrary1.sln' in VS 2019 and open Test Explorer
+Open the Solution 'ClassLibrary1.sln' in VS 2019
+
+Then Go to Manage Nuget Package by right clicking on Solution.
+
+Restore the Nuget Packages
+
+Build the solution.
+
+open Test Explorer
 
 Run the Test
 
